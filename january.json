@@ -975,6 +975,21 @@
 },
 {
   "_id": {
+    "$oid": "67506502902714a702d8a0d1"
+  },
+  "id": "teachers398-7bc9c6b0",
+  "tname": "BITHIKA MAJUMDER",
+  "basic": 30700,
+  "addl": 0,
+  "daPercent": 0.14,
+  "hraPercent": 0.12,
+  "ma": 0,
+  "gpf": 2000,
+  "gsli": 0,
+  "arrear": 0
+},
+{
+  "_id": {
     "$oid": "675065fe902714a702d8a58a"
   },
   "id": "teachers163",

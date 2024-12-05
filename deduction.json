@@ -1756,6 +1756,33 @@
   },
   {
     "_id": {
+      "$oid": "67506502902714a702d8a0d1"
+    },
+    "id": "teachers398-7bc9c6b0",
+    "tname": "BITHIKA MAJUMDER",
+    "hbLoanPrincipal": 0,
+    "hbLoanInterest": 0,
+    "lic": 0,
+    "ulip": 0,
+    "ppf": 0,
+    "nsc": 0,
+    "nscInterest": 0,
+    "tutionFee": 0,
+    "sukanya": 0,
+    "stampDuty": 0,
+    "mediclaim": 0,
+    "terminalDisease": 0,
+    "handicapTreatment": 0,
+    "educationLoan": 0,
+    "charity": 0,
+    "disability": 0,
+    "rgSaving": 0,
+    "otherIncome": 0,
+    "fd": 0,
+    "tds": 0
+  },
+  {
+    "_id": {
       "$oid": "674b277643b19ccbabb604a5"
     },
     "id": "teachers163",
